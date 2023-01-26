@@ -34,7 +34,7 @@ public class LinkedListUc2 {
 
     public static void main(String[] args) {
         LinkedListUc2 ll = new LinkedListUc2();
-        System.out.println("Inserting Elements in linkedlist");
+        System.out.println("Elements are inserted into the linkedlist");
         ll.insertValueFromFirst(ll,70);
         ll.insertValueFromFirst(ll,30);
         ll.insertValueFromFirst(ll,56);
